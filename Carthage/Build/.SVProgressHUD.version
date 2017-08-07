@@ -1,0 +1,18 @@
+{
+  "iOS" : [
+    {
+      "hash" : "358388e5b99cf52e122be40aab28c2c2c816ababd96c5933725fee2b83a0b9f6",
+      "name" : "SVProgressHUD"
+    }
+  ],
+  "commitish" : "2.1.2",
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "Mac" : [
+
+  ]
+}
